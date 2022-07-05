@@ -1,0 +1,65 @@
+1656994042059	geckodriver	INFO	Listening on 127.0.0.1:65336
+1656994045102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SIKANDER\\AppData\\Local\\Temp\\rust_mozprofileZkvhZ4"
+1656994045886	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65337
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SIKANDER\\AppData\\Local\\Temp\\rust_mozprofileZkvhZ4\\search.json.mozlz4", (void 0)))
+1656994048761	Marionette	INFO	Listening on port 65368
+Read port: 65368
+DevTools listening on ws://localhost:65337/devtools/browser/ec34d5f2-83c2-486d-b126-d3a6d7ffc827
+1656994048797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yg/l/en_GB/ALWiWBtWTpB.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656994051658	Marionette	INFO	Stopped listening on port 65368
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1656994052608	geckodriver	INFO	Listening on 127.0.0.1:65389
+1656994055639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SIKANDER\\AppData\\Local\\Temp\\rust_mozprofile3eFWcV"
+1656994056096	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65390
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SIKANDER\\AppData\\Local\\Temp\\rust_mozprofile3eFWcV\\search.json.mozlz4", (void 0)))
+1656994058412	Marionette	INFO	Listening on port 65413
+DevTools listening on ws://localhost:65390/devtools/browser/f9c79c59-84e4-43e4-89d3-90223a8bcc8e
+Read port: 65413
+1656994058477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yg/l/en_GB/ALWiWBtWTpB.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656994066408	Marionette	INFO	Stopped listening on port 65413
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1656994067242	geckodriver	INFO	Listening on 127.0.0.1:65456
+1656994070267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SIKANDER\\AppData\\Local\\Temp\\rust_mozprofileiB86tS"
+1656994070704	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65457
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SIKANDER\\AppData\\Local\\Temp\\rust_mozprofileiB86tS\\search.json.mozlz4", (void 0)))
+1656994073561	Marionette	INFO	Listening on port 65483
+DevTools listening on ws://localhost:65457/devtools/browser/0de1c451-e176-4c13-b99c-181a74e343a4
+Read port: 65483
+1656994073672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yg/l/en_GB/ALWiWBtWTpB.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1656994090401	Marionette	INFO	Stopped listening on port 65483
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
